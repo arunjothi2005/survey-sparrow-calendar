@@ -1,12 +1,11 @@
 {
   "name": "survey-sparrow-calendar-final",
   "version": "1.0.0",
-"scripts": {
-  "dev": "vite",
-  "build": "npx vite build",
-  "preview": "vite preview"
-}
-,
+  "scripts": {
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "axios": "^1.6.0",
     "dayjs": "^1.11.10",
@@ -18,7 +17,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.14",
-    "cross-env": "^7.0.3",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
     "vite": "^4.4.9"
