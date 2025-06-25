@@ -1,5 +1,5 @@
 {
-  "name": "survey-sparrow-calendar-final",
+  "name": "survey-sparrow-calendar",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
