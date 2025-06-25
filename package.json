@@ -1,10 +1,11 @@
 {
-  "name": "survey-sparrow-calendar",
+  "name": "survey-sparrow-calendar-final",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "postinstall": "chmod +x node_modules/.bin/vite || true"
   },
   "dependencies": {
     "axios": "^1.6.0",
