@@ -1,4 +1,4 @@
-                                                        Survey Sparrow Calendar
+                                                  Survey Sparrow Calendar
 A modern, interactive calendar web application built with **React**, **Tailwind CSS**, and **Day.js**, featuring event management, filtering, dark mode, and export capabilities — inspired by Google Calendar.
 
 - 📆 Google Calendar-like monthly view
